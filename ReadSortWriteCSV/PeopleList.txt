@@ -1,0 +1,11 @@
+First Name,Last Name,Age,Gender,Nationality
+Cory,Cunningham,34,Male,Canadian
+Lowri,Barton,22,Female,American
+Josiah,Graves,76,Male,Irish
+India,Tate,12,Female,British
+Matt,Perkins,20,Male,Australian
+Theresa,May,66,Female,American
+Hector,Harding,35,Male,Indian
+Ruby,Vaughn,42,Female,French
+Saif,Doyle,58,Male,Jamaican
+Aidan,Francis,09,Female,Hungarian
